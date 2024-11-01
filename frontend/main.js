@@ -17,3 +17,4 @@ const getVisitCount = () => {
     });
     return count;
 }
+
